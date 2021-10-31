@@ -1,0 +1,15 @@
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\bin\Debug\net5.0\BUS_QLBH.deps.json
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\bin\Debug\net5.0\BUS_QLBH.dll
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\bin\Debug\net5.0\ref\BUS_QLBH.dll
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\bin\Debug\net5.0\BUS_QLBH.pdb
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\bin\Debug\net5.0\DAL_QLBH.dll
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\bin\Debug\net5.0\DAL_QLBH.pdb
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\obj\Debug\net5.0\BUS_QLBH.csproj.AssemblyReference.cache
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\obj\Debug\net5.0\BUS_QLBH.GeneratedMSBuildEditorConfig.editorconfig
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\obj\Debug\net5.0\BUS_QLBH.AssemblyInfoInputs.cache
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\obj\Debug\net5.0\BUS_QLBH.AssemblyInfo.cs
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\obj\Debug\net5.0\BUS_QLBH.csproj.CoreCompileInputs.cache
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\obj\Debug\net5.0\BUS_QLBH.csproj.CopyComplete
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\obj\Debug\net5.0\BUS_QLBH.dll
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\obj\Debug\net5.0\ref\BUS_QLBH.dll
+D:\DuAnMau\DuAn1Mau\BUS_QLBH\obj\Debug\net5.0\BUS_QLBH.pdb

@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DuAnMau\\DuAn1Mau\\GUI_QLBD\\GUI_QLBD.csproj": {}
+  },
+  "projects": {
+    "D:\\DuAnMau\\DuAn1Mau\\BUS_QLBH\\BUS_QLBH.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DuAnMau\\DuAn1Mau\\BUS_QLBH\\BUS_QLBH.csproj",
+        "projectName": "BUS_QLBH",
+        "projectPath": "D:\\DuAnMau\\DuAn1Mau\\BUS_QLBH\\BUS_QLBH.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Bui\\.nuget\\packages\\",
+        "outputPath": "D:\\DuAnMau\\DuAn1Mau\\BUS_QLBH\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nguyen Bui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\DuAnMau\\DuAn1Mau\\DAL_QLBH\\DAL_QLBH.csproj": {
+                "projectPath": "D:\\DuAnMau\\DuAn1Mau\\DAL_QLBH\\DAL_QLBH.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DuAnMau\\DuAn1Mau\\DAL_QLBH\\DAL_QLBH.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DuAnMau\\DuAn1Mau\\DAL_QLBH\\DAL_QLBH.csproj",
+        "projectName": "DAL_QLBH",
+        "projectPath": "D:\\DuAnMau\\DuAn1Mau\\DAL_QLBH\\DAL_QLBH.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Bui\\.nuget\\packages\\",
+        "outputPath": "D:\\DuAnMau\\DuAn1Mau\\DAL_QLBH\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nguyen Bui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DuAnMau\\DuAn1Mau\\GUI_QLBD\\GUI_QLBD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DuAnMau\\DuAn1Mau\\GUI_QLBD\\GUI_QLBD.csproj",
+        "projectName": "GUI_QLBD",
+        "projectPath": "D:\\DuAnMau\\DuAn1Mau\\GUI_QLBD\\GUI_QLBD.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Bui\\.nuget\\packages\\",
+        "outputPath": "D:\\DuAnMau\\DuAn1Mau\\GUI_QLBD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nguyen Bui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "D:\\DuAnMau\\DuAn1Mau\\BUS_QLBH\\BUS_QLBH.csproj": {
+                "projectPath": "D:\\DuAnMau\\DuAn1Mau\\BUS_QLBH\\BUS_QLBH.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
